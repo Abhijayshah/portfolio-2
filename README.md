@@ -1,4 +1,4 @@
-# Abhijay Shah Portfolio Website
+# Abhijay Shah - Portfolio Website
 
 ![Portfolio Preview](https://avatars.githubusercontent.com/u/115077886?v=4)
 
